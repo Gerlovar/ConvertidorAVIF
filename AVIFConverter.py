@@ -55,7 +55,7 @@ def convert(file_names, Guardar_en):
 app = CTK.CTk(fg_color='#222e35')
 app.title("Converter")
 app.geometry("450x450+200+5")
-app.iconbitmap(default="E:\\PROGRAMACION\\pythonxD\\ConvertidorAVIF\\ConvertidorAVIF\\AvifConverterIcon.ico")
+app.iconbitmap(default="AvifConverterIcon.ico")
 
 app.rowconfigure(0, weight=1)
 app.rowconfigure(1, weight=1)
